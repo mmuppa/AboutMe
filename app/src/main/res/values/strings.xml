@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="aboutme">About Me</string>
+    <string name="picture">View picture</string>
+    <string name="webpage">View web page</string>
+    <string name="toast">View Message</string>
+    <string name="dialog">View Dialog</string>
+</resources>
