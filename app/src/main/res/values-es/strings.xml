@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sobre mi</string>
+    <string name="aboutme">sobre mi</string>
+    <string name="picture">vista de los cuadros</string>
+    <string name="toast">ver mensaje</string>
+    <string name="webpage">Ver página web</string>
+    <string name="dialog">diálogo de vista</string>
+</resources>
