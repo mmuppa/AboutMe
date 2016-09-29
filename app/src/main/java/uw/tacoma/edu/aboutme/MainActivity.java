@@ -22,6 +22,11 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i);
     }
 
+    public void openJowy(View v) {
+        Intent i = new Intent(this, JowyActivity.class);
+        startActivity(i);
+    }
+
     public void showImage(View v) {
         Intent i = new Intent(this, ImageActivity.class);
         startActivity(i);
