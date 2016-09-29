@@ -40,4 +40,10 @@
         android:layout_height="wrap_content"
         android:text="@string/dialog"
         android:onClick="openDialog" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_jowy"
+        android:onClick="openJowy"/>
 </LinearLayout>
